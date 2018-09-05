@@ -1,6 +1,6 @@
 import jogovelha
 import sys
-<<<<<<< HEAD
+
 erroInicializar = False
 jogo = jogovelha.inicializar()
 if len(jogo) != 3:
@@ -17,7 +17,7 @@ if erroInicializar:
 sys.exit(1)
 else:
 sys.exit(0)
-=======
+
 
 erroInicializar = False
 jogo = jogovelha.inicializar()
